@@ -9,12 +9,13 @@ CREATE TABLE Produto (
     QtdeEstoque INT NOT NULL DEFAULT 0
 );
 
--- Tabela SfcPedidoVenda (Cabeçalho da Venda)
+-- Tabela SfcPedidoVenda (Cabeï¿½alho da Venda)
 CREATE TABLE SfcPedidoVenda (
-    Nota NVARCHAR(7) PRIMARY KEY, -- Nota auto gerada como chave primária
+    Nota NVARCHAR(7) PRIMARY KEY, -- Nota auto gerada como chave primï¿½ria
+    Tipo NVARCHAR(2) NOT NULL DEFAULT 'VD'
     DataMovim DATE NOT NULL DEFAULT GETDATE(),
 	Loja INT NOT NULL DEFAULT 0,
-    Cliente NVARCHAR(255) NOT NULL DEFAULT 'Desconhecido',
+    Cliente NVARCHAR(255) NOT NULL DEFAULTï¿½'Desconhecido',
     ValorTotal DECIMAL(12, 2) NOT NULL DEFAULT 0
 );
 
@@ -59,14 +60,14 @@ BEGIN
     DECLARE @NovoId INT;
     DECLARE @NotaGerada NVARCHAR(7);
 
-    -- Obter o próximo número de Nota baseado no maior valor atual
+    -- Obter o prï¿½ximo nï¿½mero de Nota baseado no maior valor atual
     SELECT @NovoId = ISNULL(MAX(CAST(Nota AS INT)), 0) + 1 FROM SfcPedidoVenda;
 
     -- Gerar a Nota no formato '0000001'
     SET @NotaGerada = RIGHT('0000000' + CAST(@NovoId AS NVARCHAR(7)), 7);
 
     -- Inserir com a Nota auto gerada, mantendo os demais campos do INSERT original
-    INSERT INTO SfcPedidoVenda (Nota, DataMovim, ValorTotal, Loja, Cliente)
+    INSERT INTO SfcPedidoVenda (Nota, Tipo, DataMovim, ValorTotal, Loja, Cliente)
     SELECT @NotaGerada, DataMovim, ValorTotal, Loja, Cliente
     FROM Inserted;
 END;

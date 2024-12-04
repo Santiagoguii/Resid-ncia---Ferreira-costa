@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/18 19:04:12.000.620,=C:\Users\guilh\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/18 19:06:29.000.544,C:\Users\guilh\Documents\ferreira costa\Unit1.pas=C:\Users\guilh\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/18 19:06:29.000.544,C:\Users\guilh\Documents\ferreira costa\Unit1.dfm=C:\Users\guilh\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/11/18 19:06:39.000.572,C:\Users\guilh\Documents\ferreira costa\Vendas.dproj=C:\Users\guilh\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/11/21 19:21:46.000.047,=C:\Users\guilh\Documents\ferreira costa\Unit2.pas</Transaction>
+    <Transaction>2024/11/21 20:00:47.000.771,C:\Users\guilh\Documents\ferreira costa\Unit2.pas=C:\Users\guilh\Documents\ferreira costa\Pesquisa.pas</Transaction>
+    <Transaction>2024/11/21 20:00:47.000.771,C:\Users\guilh\Documents\ferreira costa\Unit2.dfm=C:\Users\guilh\Documents\ferreira costa\Pesquisa.dfm</Transaction>
+    <Transaction>2024/11/25 17:17:38.000.076,=C:\Users\guilh\Downloads\Novo(a) Arquivo ZIP do WinRAR\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/11/25 17:31:04.000.744,C:\Users\guilh\Downloads\Novo(a) Arquivo ZIP do WinRAR\Projects\Unit2.pas=</Transaction>
+    <Transaction>2024/11/25 17:31:13.000.897,=C:\Users\guilh\Documents\ferreira costa\Unit2.pas</Transaction>
+    <Transaction>2024/11/26 12:19:31.000.821,=C:\Users\guilh\Documents\ferreira costa\Unit3.pas</Transaction>
+    <Transaction>2024/11/26 16:35:19.000.809,C:\Users\guilh\Documents\ferreira costa\ClientePg.dfm=C:\Users\guilh\Documents\ferreira costa\Unit3.dfm</Transaction>
+    <Transaction>2024/11/26 16:35:19.000.809,C:\Users\guilh\Documents\ferreira costa\ClientePg.pas=C:\Users\guilh\Documents\ferreira costa\Unit3.pas</Transaction>
+    <Transaction>2024/11/26 20:25:58.000.928,C:\Users\guilh\Documents\ferreira costa\ClientePg.pas=</Transaction>
+    <Transaction>2024/12/03 20:41:46.000.173,=C:\Users\guilh\Documents\ferreira costa\Consulta.pas</Transaction>
+    <Transaction>2024/12/03 21:02:59.000.541,C:\Users\guilh\Documents\ferreira costa\Unit1.dfm=C:\Users\guilh\Documents\ferreira costa\Vendas.dfm</Transaction>
+    <Transaction>2024/12/03 21:02:59.000.541,C:\Users\guilh\Documents\ferreira costa\Unit1.pas=C:\Users\guilh\Documents\ferreira costa\Vendas.pas</Transaction>
+    <Transaction>2024/12/03 21:03:13.000.547,C:\Users\guilh\Documents\ferreira costa\Unit2.dfm=C:\Users\guilh\Documents\ferreira costa\Home.dfm</Transaction>
+    <Transaction>2024/12/03 21:03:13.000.547,C:\Users\guilh\Documents\ferreira costa\Unit2.pas=C:\Users\guilh\Documents\ferreira costa\Home.pas</Transaction>
+    <Transaction>2024/12/03 21:12:51.000.666,C:\Users\guilh\Documents\ferreira costa\Vendas.pas=C:\Users\guilh\Documents\ferreira costa\Venda.pas</Transaction>
+    <Transaction>2024/12/03 21:12:51.000.666,C:\Users\guilh\Documents\ferreira costa\Vendas.dfm=C:\Users\guilh\Documents\ferreira costa\Venda.dfm</Transaction>
+    <Transaction>2024/12/03 21:15:24.000.064,C:\Users\guilh\Documents\ferreira costa\Venda.dfm=C:\Users\guilh\Documents\ferreira costa\Unit1.dfm</Transaction>
+    <Transaction>2024/12/03 21:15:24.000.064,C:\Users\guilh\Documents\ferreira costa\Venda.pas=C:\Users\guilh\Documents\ferreira costa\Unit1.pas</Transaction>
+    <Transaction>2024/12/03 21:25:30.000.645,C:\Users\guilh\Documents\ferreira costa\Unit1.pas=C:\Users\guilh\Documents\ferreira costa\V.pas</Transaction>
+    <Transaction>2024/12/03 21:25:30.000.646,C:\Users\guilh\Documents\ferreira costa\Unit1.dfm=C:\Users\guilh\Documents\ferreira costa\V.dfm</Transaction>
+    <Transaction>2024/12/03 21:27:48.000.569,C:\Users\guilh\Documents\ferreira costa\V.dfm=C:\Users\guilh\Documents\ferreira costa\VendaFc.dfm</Transaction>
+    <Transaction>2024/12/03 21:27:48.000.569,C:\Users\guilh\Documents\ferreira costa\V.pas=C:\Users\guilh\Documents\ferreira costa\VendaFc.pas</Transaction>
+    <Transaction>2024/12/04 17:54:53.096,=C:\Users\guilh\Ferreira-Costa\UnitConsulta.pas</Transaction>
+    <Transaction>2024/12/04 18:09:36.221,C:\Users\guilh\Documents\ferreira costa\UnitConsulta.dfm=C:\Users\guilh\Ferreira-Costa\UnitConsulta.dfm</Transaction>
+    <Transaction>2024/12/04 18:09:36.221,C:\Users\guilh\Documents\ferreira costa\UnitConsulta.pas=C:\Users\guilh\Ferreira-Costa\UnitConsulta.pas</Transaction>
+    <Transaction>2024/12/04 18:10:00.970,C:\Users\guilh\Documents\ferreira costa\Consultsa.dfm=C:\Users\guilh\Documents\ferreira costa\Consulta.dfm</Transaction>
+    <Transaction>2024/12/04 18:10:00.970,C:\Users\guilh\Documents\ferreira costa\Consultsa.pas=C:\Users\guilh\Documents\ferreira costa\Consulta.pas</Transaction>
+    <Transaction>2024/12/04 18:10:12.242,C:\Users\guilh\Documents\ferreira costa\Consulta.pas=C:\Users\guilh\Documents\ferreira costa\UnitConsulta.pas</Transaction>
+    <Transaction>2024/12/04 18:10:12.242,C:\Users\guilh\Documents\ferreira costa\Consulta.dfm=C:\Users\guilh\Documents\ferreira costa\UnitConsulta.dfm</Transaction>
+    <Transaction>2024/12/04 18:13:27.409,C:\Users\guilh\Documents\ferreira costa\Consultsa.pas=</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Consulta.pas"/>
+    <File Path="Consulta.dfm"/>
+    <File Path="Home.pas"/>
+    <File Path="Home.dfm"/>
+    <File Path="Pesquisa.pas"/>
+    <File Path="Pesquisa.dfm"/>
+    <File Path="VendaFc.pas"/>
+    <File Path="VendaFc.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
